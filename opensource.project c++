@@ -1,0 +1,9 @@
+// 開源軟體 作業練習 
+#include <iostream>
+  
+ int main(){
+    for(int i=0;i<10;i++){
+      cout << i << " " << endl;
+    }
+ }
+// s06351030 編輯 列印出 0~9
